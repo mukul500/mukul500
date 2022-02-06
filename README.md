@@ -9,4 +9,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mukul500&show_icons=true&hide_border=true&theme=dark" alt="mukul500">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=mukul500&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=151515" alt="mukul500">
 </div>
-![](https://hit.yhype.me/github/profile?user_id=11819326)
