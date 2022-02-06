@@ -1,8 +1,8 @@
 <!-- see https://github.com/antonkomarev/github-profile-views-counter and https://pufler.dev/git-badges/ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukul500&label=Views" alt="Views">
-  <img src="https://badges.pufler.dev/repos/mukul500" alt="Repos"></a>
-  <img src="https://badges.pufler.dev/years/mukul500" alt="Years"></a>
+  <img src="https://komarev.com/ghpvc/?username=mukul500&label=Visitors&style=flat-square&color=89c8a6" alt="Views">
+  <img src="https://badges.pufler.dev/repos/mukul500?style=flat-square&color=6182e7" alt="Repos"></a>
+  <img src="https://badges.pufler.dev/years/mukul500?style=flat-square&color=fc7c42" alt="Years"></a>
 </p>
 <img src="https://github.com/mukul500/mukul500/raw/main/assets/readme_header.jfif">
 <div align="center">
