@@ -11,10 +11,12 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=mukul500&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=151515" alt="mukul500">
 </div>
 
-<a href="#"><img width="30%" height="auto" align="right" src="https://github.com/mukul500/mukul500/raw/main/assets/obito.png"/></a>
+<a href="#"><img width="30%" height="auto" align="right" src="https://github.com/mukul500/mukul500/raw/main/assets/obito.png" /></a>
+
+<br><br>
 
 
-### Passionate Android Engineer
+## Passionate Android Engineer
 An enthusiastic & dedicated developer who have a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience.
 
 * 👨‍💻 Currently working on Android development technologies Kotlin, Jetpack, MAD etc.
@@ -22,6 +24,3 @@ An enthusiastic & dedicated developer who have a strong eye for innovative desig
 * 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 *  💬 Ask me about ``Android``, ``UI/UX Design``,   & ``Freelancing Enquiries``
 * ⚡ Fun fact: I love to play video games 🎮 & watching anime 📺.
-
-
----
