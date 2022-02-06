@@ -13,8 +13,7 @@
 
 <a href="#"><img width="30%" height="auto" align="right" src="https://github.com/mukul500/mukul500/raw/main/assets/obito.png" /></a>
 
-<br><br>
-
+<br>
 
 ## Passionate Android Engineer
 An enthusiastic & dedicated developer who have a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience.
